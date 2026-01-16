@@ -1,4 +1,4 @@
-## [ FRC2026 Game Simulator ] for CKFS by Kevin Liao
+## [ FRC2026 Game Simulator ] for CKHS by Kevin Liao
 
 ## Quick Start
 
