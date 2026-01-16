@@ -5,7 +5,7 @@
   v2023.22.2f1 is old, you may find it in archive: 
   https://unity.com/cn/releases/editor/archive
   
-## 2. Load asset FieldScene
+## 2. Load asset FieldScene & Welcome
   import project with Unity Hub, then open project
   in assets/scenes, find FieldScene & Welcome, drag into Hierarchy
   File -> Build Settings -> Add Open Scenes, with Check-Mark, set Welcome as 0 and FieldScene as 1
